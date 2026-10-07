@@ -1,0 +1,19 @@
+The argument is partly insightful and substantially overstated. The useful core is cost imposition; the leap that Bitcoin is “tokenized compute” is a category error.
+
+Lowery’s post says Bitcoin proof-of-work tokens are transferable proof of compute already spent, while inference tokens represent compute still to be consumed, so an agent can stockpile the first and spend it on the second. Agency is then constrained at both ends: enough GPUs to run the action, and enough BTC to pay for it. He treats Bitcoin as the geopolitically neutral stockpile for that second constraint, and predicts a large repricing once markets stop filing it under “crypto.” The image leans on BlackRock’s September 2026 paper *The Machine-Native Economy* and a Bitcoin Policy Institute simulation in which models picked Bitcoin for store-of-value in 79.1% of cases.
+
+What holds up:
+
+Proof-of-work does embed real expenditure. A bitcoin is evidence that a large amount of SHA-256 hashing and electricity was burned. That is not the same as a warehouse receipt for FLOPs, but it is not imaginary either. The older idea underneath this—Adam Back’s Hashcash, and Lowery’s *Softwar* thesis—is coherent: software attacks are cheap to repeat, so attach a physical cost to actions and high-frequency actors pay disproportionately. An agent that can take 10,000× as many actions as a human feels even a small per-action cost. A non-sovereign asset is also genuinely harder for one state to freeze or inflate than bank deposits or a dollar stablecoin. If agents must acquire scarce purchasing power before they can act, that purchasing power constrains them.
+
+What does not hold up:
+
+Bitcoin is not a claim on compute. Protocol rules do not let you redeem BTC for a fixed quantity of GPU-seconds. Mining hashes are not fungible with inference. “Past compute becomes future agency” is just “save money, buy services.” Gold, Treasuries, or stablecoins do the same conversion. BlackRock’s paper actually separates the layers: stablecoins as the spending rail, Bitcoin as a possible savings asset, and tokenized claims on future compute capacity as a distinct, still-speculative asset class. Lowery collapses the third into the second.
+
+The 79.1% figure is weak evidence for the conclusion. It comes from a February 2026 Bitcoin Policy Institute study that BlackRock cites as preliminary support: 36 models, hypothetical prompts, not live agent treasuries. Models often repeat the “digital gold” story in their training data. Reported real agentic payment volume is still tiny. Preference in a survey is not demand.
+
+Cost imposition only binds if the actions themselves require Bitcoin or proof-of-work. Nothing forces an API, a cloud provider, or another agent to accept BTC. They can take dollars, stablecoins, or internal credits. Lowery’s stronger claim—that networks should attach proof-of-work costs to machine actions—is a design prescription, not a description of Bitcoin today. Capital also cuts both ways: states and labs that already buy GPUs can buy BTC. Fixed supply does not uniquely favor defenders.
+
+“Available BTC will determine how much AI can afford to do, and that is scarcer than chips” assumes the conclusion. Chip scarcity is already priced because inference literally cannot run without the hardware. BTC scarcity only meters agency if BTC becomes the settlement asset. That adoption is the open question, not a fact the market has missed. The “insane correction” line is a price forecast, not an argument.
+
+So the strategic intuition—neutral money plus marginal cost as a brake on machine-speed action—is worth taking seriously. The identification of Bitcoin with tokenized compute, and the claim that markets are one realization away from repricing it as critical AI infrastructure, overreaches the mechanism and the evidence.
