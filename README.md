@@ -1,2 +1,2 @@
 # ai-btc-x
-Proposal for an ai inference trading platform payable in bitcoin
+Proposal for an ai inference p2p market payable in bitcoin
