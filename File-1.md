@@ -1,0 +1,3 @@
+- Jason Lowery posits BTC proof-of-work as tokenized past compute that AI agents could accumulate to buy future inference compute, positioning Bitcoin as a geopolitically neutral way to impose costs on machine agency and constrain autonomous action.
+- The attached image cites BlackRock-linked "Machine-Native Economy" simulations where AI agents pick Bitcoin for 79.1% of store-of-value needs, stablecoins for 77% of payments, and tokenized compute as a new "fuel" asset class for agents to buy and rent.
+- Lowery highlights that markets currently undervalue BTC as AI infrastructure for metering and budgeting, despite widespread understanding of GPU compute scarcity, forecasting an "insane" correction when this link is recognized.
